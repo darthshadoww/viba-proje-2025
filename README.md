@@ -1,4 +1,4 @@
-# VİBA 2024-2025 Bahar Dönemi Proje Ödevi
+# VİBA 2025-2026 Bahar Dönemi Proje Ödevi
 
 **Ders Kodu:** BLM3051  
 **Ders Adı:** Veri İletişimi ve Bilgisayar Ağları  
@@ -71,9 +71,9 @@ g++ src/main.cpp -o viba_app
 
 - **Son Teslim Tarihi:** 20 Nisan 2025, 23:59 (TSİ)  
 - **Teslim Formatı:**  
-  - `viba-20242-proje-GRUPNO.zip`  
-  - `viba-20242-rapor-GRUPNO.pdf`  
-  - `viba-20242-GRUPNO.txt` (`.exe` uzantılı dosyanın adı değiştirilerek)
+  - `viba-2025-proje-GRUPNO.zip`  
+  - `viba-2025-rapor-GRUPNO.pdf`  
+  - `viba-2025-GRUPNO.txt` (`.exe` uzantılı dosyanın adı değiştirilerek)
 
 ---
 
