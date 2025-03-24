@@ -71,8 +71,22 @@ g++ src/main.cpp -o viba_app
 
 - **Son Teslim Tarihi:** 20 Nisan 2025, 23:59 (TSİ)  
 - **Teslim Formatı:**  
-  - `viba-2025-proje-GRUPNO.zip`  
-  - `viba-2025-rapor-GRUPNO.pdf`  
-  - `viba-2025-GRUPNO.txt` (`.exe` uzantılı dosyanın adı değiştirilerek)
+  - `viba-20242-proje-GRUPNO.zip`  
+  - `viba-20242-rapor-GRUPNO.pdf`  
+  - `viba-20242-GRUPNO.txt` (`.exe` uzantılı dosyanın adı değiştirilerek)
 
 ---
+
+
+## 💡 Katkıda Bulunacaklar İçin Notlar
+
+- 🔀 **Branch kullanımı zorunlu:** Herkes kendi görevine özel bir branch’te çalışmalı. `main` doğrudan değiştirilmemeli.
+- 📥 **Pull Request kullanın:** İşiniz bittiğinde doğrudan main’e atmak yerine PR açarak kodu birleştirin.
+- 📝 **Açıklayıcı commit mesajları yazın:** Örn: `Add CRC calculation`, `Fix GUI layout bug`
+- 🔄 **Push yapmadan önce güncelleyin:** `git pull origin main` ile en güncel hali alın.
+- 💡 **Kod okunabilirliğine dikkat edin:** Girintiler, boşluklar ve yorum satırları düzenli olmalı.
+- 🚫 **Derlenmiş dosyaları commit etmeyin:** `.exe`, `.obj`, `cmake-build-debug/` gibi klasörler `.gitignore` ile dışlanmalı.
+- 📌 **Her dosyaya kısa bir açıklama ekleyin:** Ne yaptığını anlatan 1-2 satırlık yorum.
+- 🧾 **Rapor için kendi kısmınızın kısa özetini hazır tutun.**
+
+Bu kurallar sayesinde ekip olarak daha düzenli ve sorunsuz bir geliştirme süreci geçirebiliriz.
